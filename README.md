@@ -2,7 +2,7 @@
 Perly ducha a vtipné kúsky kódu (snippety)
 
 ## Kaskádové štýly CSS
-### Bohatí vs chudobní - Vitajte v klube 99%
+### 💰 Bohatí vs chudobní - Vitajte v klube 99%
 ```css
 .bohati-ludia {
   top: 1%;
@@ -13,7 +13,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Ako sa správať ku svojej žene - Pravidlo č.1 manželského života
+### 👩 Ako sa správať ku svojej žene - Pravidlo č.1 manželského života
 ```css
 #zena {
   right: 100%;
@@ -22,7 +22,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 
 ```
 
-### Chuck to dokáže - Jediný muž, ktorý vyhral hádku so svojou ženou
+### 🔥 Chuck to dokáže - Jediný muž, ktorý vyhral hádku so svojou ženou
 ```css
 #chucknorris {
   color: #BADA55;
@@ -30,7 +30,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 
 ```
 
-### Ninja
+### 🐱‍👤 Ninja
 ```css
 .ninja {
   color: black;
@@ -40,7 +40,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 
 ```
 
-### Duch
+### 👻 Duch
 ```css
 .duch {
   color: white;
@@ -48,14 +48,14 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Keď Eminem rapuje
+### 🧑‍🎤 Keď Eminem rapuje
 ```css
 #eminem
   word-spacing: 0;
 }
 ```
 
-### Bruce Banner a Hulk
+### 🟢 Bruce Banner a Hulk
 ```css
 #bruce-banner
   color: pink;
@@ -67,42 +67,42 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Nadpisy Kim Kardashian
+### 🧏‍♀️ Nadpisy Kim Kardashian
 ```css
 #kim-kardashian
   padding-bottom: 9999px;
 }
 ```
 
-### Tajomstvo Super Maria
+### 🍄 Tajomstvo Super Maria
 ```css
 #mario.mushroom
   transform: scale(200%);
 }
 ```
  
-### Autoboti best mode
+### 🤖 Autoboti best mode
 ```css
 .autoboti
   transform: translate3d();
 }
 ```
 
-### Dobrý umelec kradne, veľkí umelci kopírujú
+### 🎨 Dobrý umelec kradne, veľkí umelci kopírujú
 ```css
 #samsung
   @extend apple;
 }
 ```
 
-### Ježiš je medzi nami
+### ✝️ Ježiš je medzi nami
 ```css
 .jezis {
   overflow: hidden;
 }
 ```
 
-### Ikea stavia stôl
+### 🏓 Ikea stavia stôl
 ```css
 #ikea {
   display: table;
@@ -116,14 +116,14 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Čarovný plášť Harryho Pottera
+### ✨ Čarovný plášť Harryho Pottera
 ```css
 #neviditelny-plast {
   visibility: hidden;
 }
 ```
 
-###  Pre ľudí so zrakovým namáhaním očí
+###  👁️ Pre ľudí so zrakovým namáhaním očí
 ```css
 .bez-sosoviek-okuliarov {
   filter: blur(50px);
@@ -135,7 +135,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-###  Ako si ženy zlepšujú imidž...
+###  🤹‍♀️ Ako si ženy zlepšujú imidž...
 ```css
 .push-up-podprsenka {
   margin-top: -25%;
@@ -143,7 +143,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Šikmá veža v Pise
+### 🗼 Šikmá veža v Pise
 ```css
 #veza-pisa {
   font-style: italic;
@@ -158,7 +158,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Padol nám Berlínsky múr
+### 🧱 Padol nám Berlínsky múr
 ```css
 #berlin-stena {
   border-collapse: collapse;
@@ -166,14 +166,14 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Čína
+### 💹 Čína
 ```css
 #cina {
   border-top-style: solid;
 }
 ```
 
-### Odhalenie Iluminátov
+### 🙊 Odhalenie Iluminátov
 ```css
 .illuminati {
   position: absolute;
@@ -181,21 +181,21 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Ako funguje kráľovstvo
+### ☝️ Ako funguje kráľovstvo
 ```css
 .kralovstvo {
   position: inherit;
 }
 ```
 
-### Ako funguje vláda
+### 🤐 Ako funguje vláda
 ```css
 .vlada {
   transition: all 4yr ease-out;
 }
 ```
 
-### Hobitie topánky
+### 👞 Hobitie topánky
 ```css
 .hobbit {
   height: 50%;
@@ -206,28 +206,28 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### Krajiny bez hraníc
+### 🛃 Krajiny bez hraníc
 ```css
 #europe .krajiny {
   border: none;
 }
 ```
 
-### Krajiny s hranicami
+### 🛂 Krajiny s hranicami
 ```css
 #usa + #mexiko {
   border: 1px dashed;
 }
 ```
 
-### Ako to ten Mojžiš dokázal
+### 🌊 Ako to ten Mojžiš dokázal
 ```css
 #mojzis > .more {
   column-count: 2;
 }
 ```
 
-### Záhada Bermudskeho trojuholníka odhalená
+### 🔺 Záhada Bermudskeho trojuholníka odhalená
 ```css
 #bermuda-trojuholnik {
   display: none;
@@ -235,13 +235,13 @@ Perly ducha a vtipné kúsky kódu (snippety)
 ```
 
 ## JavaScript JS
-### Raňajky programátora
+### 🍳  Raňajky programátora
 ```js
 var parky;
 var caj;
 ```
 
-### Hlavne to nevzdať pri testovaní...
+### 🧪 Hlavne to nevzdať pri testovaní...
 ```js
 var up = new Exception();
 throw up;
