@@ -13,7 +13,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### 👩 Ako sa správať ku svojej žene - Pravidlo č.1 manželského života
+### 👩 Ako sa správať ku svojej žene - Pravidlo č. 1 manželského života
 ```css
 #zena {
   right: 100%;
