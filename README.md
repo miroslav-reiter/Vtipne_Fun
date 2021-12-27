@@ -55,13 +55,96 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
+### Bruce Banner a Hulk
+```css
+#bruce-banner
+  color: pink;
+  transition: color 10s;
+}
 
+#bruce-banner.hulk
+  color: green;
+}
+```
+
+### Nadpisy Kim Kardashian
+```css
+#kim-kardashian
+  padding-bottom: 9999px;
+}
+```
+
+### Tajomstvo Super Maria
+```css
+#mario.mushroom
+  transform: scale(200%);
+}
+```
+ 
+### Autoboti best mode
+```css
+.autobots
+  transform: translate3d();
+}
+```
+
+### Dobrý umelec kradne, veľkí umelci kopírujú
+```css
+#samsung
+  @extend apple;
+}
+```
+
+### Ježiš je medzi nami
 ```css
 .jezis: {
   overflow: hidden;
 }
 ```
 
+### Ikea stavia stôl
+```css
+#ikea: {
+  display: table;
+}
+```
+
+### Lego sa nikdy nestavia inline
+```css
+#lego: {
+  display: block;
+}
+```
+
+### Čarovný plášť Harryho Pottera
+```css
+#invisibility-cloak: {
+  visibility: hidden;
+}
+```
+
+###  Pre ľudí so zrakovým namáhaním očí
+```css
+.no-lens-glasses: {
+  filter: blur(50px);
+}
+
+.with-lens-glasses: {
+  image-rendering: optimizeQuality;
+  text-rendering: optimizeLegibility;
+}
+```
+
+###  Ako si ženy zlepšujú imidž...
+```css
+.push-up-bra: {
+  margin-top: -25%;
+  overflow: visible;
+}
+
+```
+
+### Titanik sa nám potopil
 ```css
 .titanic: {
   float: none;
@@ -69,14 +152,20 @@ Perly ducha a vtipné kúsky kódu (snippety)
 }
 ```
 
-### JavaScript JS
+## JavaScript JS
+### Raňajky programátora
 ```js
 var parky;
 var caj;
+
+```
+
+### Hlavne to nevzdať pri testovaní...
+```js
 var up = new Exception();
 throw up;
 
 ```
 
-Zdroje a inšpirácia
-https://www.hongkiat.com/blog/funny-css-puns/
+## 📚 Zdroje a inšpirácia
+1. https://www.hongkiat.com/blog/funny-css-puns/
