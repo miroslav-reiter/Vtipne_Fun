@@ -15,7 +15,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
 
 ### Ako sa správať ku svojej žene - Pravidlo č.1 manželského života
 ```css
-#wife {
+#zena {
   right: 100%;
   margin: 0;
 }
@@ -83,7 +83,7 @@ Perly ducha a vtipné kúsky kódu (snippety)
  
 ### Autoboti best mode
 ```css
-.autobots
+.autoboti
   transform: translate3d();
 }
 ```
@@ -97,39 +97,39 @@ Perly ducha a vtipné kúsky kódu (snippety)
 
 ### Ježiš je medzi nami
 ```css
-.jezis: {
+.jezis {
   overflow: hidden;
 }
 ```
 
 ### Ikea stavia stôl
 ```css
-#ikea: {
+#ikea {
   display: table;
 }
 ```
 
 ### Lego sa nikdy nestavia inline
 ```css
-#lego: {
+#lego {
   display: block;
 }
 ```
 
 ### Čarovný plášť Harryho Pottera
 ```css
-#invisibility-cloak: {
+#neviditelny-plast {
   visibility: hidden;
 }
 ```
 
 ###  Pre ľudí so zrakovým namáhaním očí
 ```css
-.no-lens-glasses: {
+.bez-sosoviek-okuliarov {
   filter: blur(50px);
 }
 
-.with-lens-glasses: {
+.s-sosovkami-okuliarmi {
   image-rendering: optimizeQuality;
   text-rendering: optimizeLegibility;
 }
@@ -137,18 +137,100 @@ Perly ducha a vtipné kúsky kódu (snippety)
 
 ###  Ako si ženy zlepšujú imidž...
 ```css
-.push-up-bra: {
+.push-up-podprsenka {
   margin-top: -25%;
   overflow: visible;
 }
+```
 
+### Šikmá veža v Pise
+```css
+#veza-pisa {
+  font-style: italic;
+}
 ```
 
 ### Titanik sa nám potopil
 ```css
-.titanic: {
+.titanik {
   float: none;
   bottom: 0;
+}
+```
+
+### Padol nám Berlínsky múr
+```css
+#berlin-stena {
+  border-collapse: collapse;
+  height: 0;
+}
+```
+
+### Čína
+```css
+#cina {
+  border-top-style: solid;
+}
+```
+
+### Odhalenie Iluminátov
+```css
+.illuminati {
+  position: absolute;
+  visibility: hidden;
+}
+```
+
+### Ako funguje kráľovstvo
+```css
+.kralovstvo {
+  position: inherit;
+}
+```
+
+### Ako funguje vláda
+```css
+.vlada {
+  transition: all 4yr ease-out;
+}
+```
+
+### Hobitie topánky
+```css
+.hobbit {
+  height: 50%;
+}
+
+.hobbit #noha {
+  width: 200%;
+}
+```
+
+### Krajiny bez hraníc
+```css
+#europe .krajiny {
+  border: none;
+}
+```
+
+### Krajiny s hranicami
+```css
+#usa + #mexiko {
+  border: 1px dashed;
+}
+```
+
+### Ako to ten Mojžiš dokázal
+```css
+#mojzis > .more {
+  column-count: 2;
+}
+```
+
+### Záhada Bermudskeho trojuholníka odhalená
+```css
+#bermuda-trojuholnik {
+  display: none;
 }
 ```
 
@@ -157,7 +239,6 @@ Perly ducha a vtipné kúsky kódu (snippety)
 ```js
 var parky;
 var caj;
-
 ```
 
 ### Hlavne to nevzdať pri testovaní...
