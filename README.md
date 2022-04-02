@@ -1,4 +1,4 @@
-# Vtipné zdrojové kódy (Fun source codes)
+# 🤣 Vtipné zdrojové kódy (Fun source codes)
 Perly ducha a vtipné kúsky kódu (snippety)
 
 ## Kaskádové štýly CSS
